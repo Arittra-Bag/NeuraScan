@@ -30,7 +30,7 @@ const Footer = () => {
             <h3 className="text-lg font-medium text-white mb-4">Products</h3>
             <ul className="space-y-3">
               <li>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
+                <a href="https://neura-scan.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400 transition-colors">
                   NeuraScan AI
                 </a>
               </li>
