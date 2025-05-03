@@ -9,7 +9,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-%23009688.svg?style=flat&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.8+-%233776AB.svg?style=flat&logo=python)
 
-[Demo](#) · [Report Bug](mailto:arittrabag@gmail.com) · [Request Feature](mailto:arittrabag@gmail.com)
+[Demo](https://neura-scan.vercel.app) · [Report Bug](mailto:arittrabag@gmail.com) · [Request Feature](mailto:arittrabag@gmail.com)
 
 </div>
 
